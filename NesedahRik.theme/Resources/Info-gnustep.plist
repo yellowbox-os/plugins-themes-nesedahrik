@@ -22,7 +22,7 @@
 	GSScrollerDefaultWidth = "16.0";
 	GSScrollerKnobOvershoot = "1.0";
 	GSScrollerScrollsByPage = YES;
-	NSMenuInterfaceStyle = GSWindowMakerInterfaceStyle; /* Align submenu with selected item */
+	NSMenuInterfaceStyle = NSMacintoshInterfaceStyle; /* Align submenu with selected item */
 	NSTitleBarFont = Helvetica;
     };
     GSThemeIcon = "Thematic.png";
